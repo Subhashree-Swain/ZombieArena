@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# SFML DLLs (users should have SFML installed locally)
+*.dll
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.vcxproj*
